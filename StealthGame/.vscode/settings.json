@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/Projects/UnrealProjects/StealthGame/StealthGame/.vscode": true,
+		"D:/Projects/UnrealProjects/StealthGame/StealthGame/Content": true,
+		"D:/Projects/UnrealProjects/StealthGame/StealthGame/Intermediate": true,
+		"D:/Projects/UnrealProjects/StealthGame/StealthGame/Saved": true
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
